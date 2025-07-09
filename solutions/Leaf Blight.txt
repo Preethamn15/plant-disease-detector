@@ -1,0 +1,15 @@
+🌿 Disease: Leaf Blight
+
+✅ Causes:
+- Usually caused by fungal pathogens like *Alternaria* or *Phytophthora*.
+- Excess humidity and poor airflow in hydroponic setup.
+- Infected nutrient solution or contaminated tools.
+
+🩺 Cure / Solution:
+1. Prune and discard infected leaves.
+2. Increase airflow with exhaust fans or vent systems.
+3. Apply bio-fungicide like *Trichoderma* via nutrient solution.
+4. Avoid overwatering and ensure roots are aerated.
+5. Sanitize tools regularly and use filtered water.
+6. Adjust nutrient mix to prevent excess nitrogen.
+7. Add silica supplements to strengthen plant tissues.

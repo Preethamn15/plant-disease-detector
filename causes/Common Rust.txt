@@ -1,0 +1,28 @@
+Causes of Common Rust in Plants
+
+Common rust in plants is caused by fungal pathogens from the *Puccinia* species, most commonly *Puccinia sorghi*, which primarily affects corn and other cereal crops. The fungus thrives in warm, humid conditions and spreads through airborne spores that travel long distances via wind. Once the spores land on a susceptible plant, they germinate on moist leaf surfaces, leading to the development of reddish-brown pustules on both sides of the leaves. As the infection progresses, leaves may turn yellow, dry out, and reduce the plant's ability to photosynthesize, ultimately leading to stunted growth and lower yields. The disease is most severe in dense plantings where humidity levels remain high.  
+
+
+
+Pesticides for Common Rust in Plants
+To effectively manage common rust in plants, the following fungicides and biocontrol agents can be used:
+
+Chlorothalonil – A broad-spectrum fungicide that helps suppress rust fungi when applied preventively.
+
+Propiconazole – A systemic fungicide from the triazole group that disrupts fungal growth and provides long-lasting protection.
+
+Tebuconazole – Another triazole fungicide that inhibits fungal spore development and prevents further spread.
+
+Mancozeb – A protectant fungicide that prevents spore germination and is often used in combination with other fungicides.
+
+Azoxystrobin – A strobilurin fungicide that effectively controls rust by inhibiting spore production and fungal respiration.
+
+Pyraclostrobin – Works similarly to azoxystrobin and provides strong protective action against common rust.
+
+Copper-Based Fungicides – Copper hydroxide or copper sulfate formulations help reduce fungal activity but work best as preventive treatments.
+
+Sulfur-Based Fungicides – Elemental sulfur disrupts fungal growth and is a useful organic alternative for rust control.
+
+Bacillus-Based Biopesticides – Bacillus subtilis and Bacillus amyloliquefaciens can act as biological controls by suppressing rust fungi.
+
+Neem Oil & Essential Oils – Neem extract and oils like thyme or clove oil have antifungal properties that help slow rust spread.

@@ -1,0 +1,14 @@
+🌿 Disease: Rust
+
+✅ Causes:
+- Caused by fungal spores (e.g., *Puccinia* species).
+- Spreads easily through air in humid environments.
+- Poor ventilation and leaf wetness increase risk.
+
+🩺 Cure / Solution:
+1. Remove all rust-affected leaves.
+2. Improve airflow and reduce humidity below 60%.
+3. Spray neem oil or sulfur-based fungicide weekly.
+4. Avoid overcrowding plants.
+5. Clean hydroponic trays and equipment after each cycle.
+6. Maintain balanced nutrients with adequate potassium.

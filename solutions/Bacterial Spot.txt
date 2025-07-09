@@ -1,0 +1,15 @@
+🌿 Disease: Bacterial Spot
+
+✅ Causes:
+- Caused by the bacterium *Xanthomonas campestris*.
+- Spread through splashing water, infected tools, or seeds.
+- High humidity and warm temperatures promote its growth.
+
+🩺 Cure / Solution:
+1. Remove infected leaves immediately.
+2. Clean all equipment, trays, and channels with hydrogen peroxide solution.
+3. Improve air circulation using fans.
+4. Use copper-based bactericide safe for hydroponics.
+5. Avoid overhead watering that wets leaves.
+6. Use disease-free seeds and resistant plant varieties.
+7. Maintain pH between 5.5 and 6.5 and reduce excessive nitrogen in the solution.
