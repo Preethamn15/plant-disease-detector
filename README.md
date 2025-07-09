@@ -10,8 +10,8 @@ The application also sends **instant Telegram alerts** containing the predicted 
 
 This model supports **two modes of disease detection**:
 
-- ** Real-time Detection**: Using a webcam or external camera (e.g., phone camera via Wi-Fi)
-- ** Image Upload Detection**: Upload any leaf image for prediction
+- Real-time Detection: Using a webcam or external camera (e.g., phone camera via Wi-Fi)
+- Image Upload Detection: Upload any leaf image for prediction
 
 > In image upload mode, the system provides the **disease prediction**, **confidence score**, and also reads a **text file containing the cause and solution** from the `solutions/` folder.  
 > For real-time detection, it can use either your laptop webcam or a **phone camera over Wi-Fi** (IP Webcam supported) for remote analysis.
