@@ -27,8 +27,8 @@ import telepot
 from tkinter import ttk
 
 # ─────────────────────── Configuration ─────────────────────
-BOT_TOKEN = "8020947857:AAG42UbLxawg32X5NhRj97dmGTgxUvDy07k"   # ◀── Replace safely
-CHAT_ID   = "1837835131"      # ◀── Replace safely
+BOT_TOKEN = "TELEGRAM_BOT_TOKEN"   # ◀── Replace safely
+CHAT_ID   = "Replace safely"      # ◀── Replace safely
 bot = telepot.Bot(BOT_TOKEN)
 MODEL_PATH = "best_vgg16_model.h5"      # Trained model
 IMG_SIZE   = 128                        # Model input size
