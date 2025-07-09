@@ -51,6 +51,7 @@ Use the VS Code terminal or command line
 pip install opencv-python==4.8.0.76 numpy==1.24.4 pillow requests tensorflow telepot
 python tr.py
 ```
+---
 Telegram Notification Setup
 Get instant alerts with predictions via Telegram (message + photo).
 
@@ -64,8 +65,6 @@ https://api.telegram.org/bot<YourBOTToken>/getUpdates
 Replace the values in tr.py:
 BOT_TOKEN = "your-bot-token"
 CHAT_ID   = "your-chat-id"
-
----
 
 ## 📄 Need the Full Project Report?
 
