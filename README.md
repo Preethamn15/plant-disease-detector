@@ -33,7 +33,7 @@ This model supports **two modes of disease detection**:
 
 | Upload Image Mode | Real-time Webcam Detection |
 |-------------------|----------------------------|
-| ![upload](screenshots/upload_gui.png) | *(Live preview from webcam or IP camera)* |
+| upload image | *(Live preview from webcam or IP camera)* |
 
 ---
 
